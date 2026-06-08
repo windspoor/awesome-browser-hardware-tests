@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Awesome Browser Hardware Tests
+    url: https://github.com/windspoor/awesome-browser-hardware-tests
+    about: View the curated list before suggesting a new tool.
