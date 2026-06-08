@@ -6,6 +6,10 @@ Most tools in this list work directly in the browser and do not require download
 
 This list is useful for gamers, creators, remote workers, students, repair shops, hardware reviewers, and anyone who wants to quickly check whether a device is working properly.
 
+## Community
+
+Join the discussion on [r/HardwareTest](https://www.reddit.com/r/HardwareTest/) for tool suggestions, feedback, and browser-based hardware testing discussions.
+
 ## Featured Tools
 
 - [HardwareTest.org](https://hardwaretest.org/) - All-in-one browser-based hardware testing tools.
