@@ -6,6 +6,12 @@ Most tools in this list work directly in the browser and do not require download
 
 This list is useful for gamers, creators, remote workers, students, repair shops, hardware reviewers, and anyone who wants to quickly check whether a device is working properly.
 
+## Featured Tools
+
+- [HardwareTest.org](https://hardwaretest.org/) - All-in-one browser-based hardware testing tools.
+- [Mouse Polling Rate Test](https://mousepollingratetest.com/) - Test mouse polling rate, peak Hz, jitter, and stability.
+- [Controller Test Online](https://controllertestonline.com/) - Test game controller buttons, joysticks, triggers, and stick drift.
+
 ## Contents
 
 * [All-in-One Hardware Testing](#all-in-one-hardware-testing)
