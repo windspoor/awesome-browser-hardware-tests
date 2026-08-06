@@ -72,6 +72,7 @@ Join the discussion on [r/HardwareTest](https://www.reddit.com/r/HardwareTest/) 
 
 ## Microphone and Audio Testing
 
+* [Online Sound Test](https://onlinesoundtest.com/) - Private browser-based speaker, headphone, microphone, stereo, frequency, and surround sound tests with guided troubleshooting.
 * [Online Mic Test](https://www.onlinemictest.com/) - Test microphone input directly in the browser.
 * [DeviceTests Microphone Test](https://devicetests.com/microphone-test) - Browser-based microphone test.
 * [MicTests.com](https://mictests.com/) - Check microphone input, playback, and device status.
