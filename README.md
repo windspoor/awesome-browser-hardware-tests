@@ -73,6 +73,7 @@ Join the discussion on [r/HardwareTest](https://www.reddit.com/r/HardwareTest/) 
 ## Microphone and Audio Testing
 
 * [Online Sound Test](https://onlinesoundtest.com/) - Private browser-based speaker, headphone, microphone, stereo, frequency, and surround sound tests with guided troubleshooting.
+* [Browser Audio Test Kit](https://windspoor.github.io/browser-audio-test-kit/) — Open-source Web Audio signal lab and repeatable QA checklist for testing browser audio channels, frequencies, and device routing. ([Source](https://github.com/windspoor/browser-audio-test-kit))
 * [Online Mic Test](https://www.onlinemictest.com/) - Test microphone input directly in the browser.
 * [DeviceTests Microphone Test](https://devicetests.com/microphone-test) - Browser-based microphone test.
 * [MicTests.com](https://mictests.com/) - Check microphone input, playback, and device status.
