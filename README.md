@@ -38,6 +38,7 @@ Join the discussion on [r/HardwareTest](https://www.reddit.com/r/HardwareTest/) 
 * [Mouse Polling Rate Test](https://mousepollingratetest.com/) - Test your mouse polling rate, average Hz, peak Hz, jitter, and stability directly in the browser.
 * [TestUFO Mouse Poll Rate Test](https://testufo.com/mouserate) - Browser-based mouse polling rate and jitter test.
 * [DeviceTests Mouse Test](https://devicetests.com/mouse-test) - Test mouse buttons, scroll wheel, and basic mouse input.
+* [ScrollTest](https://scrolltest.io/) - Free mouse wheel and scroll speed test: pixels/scrolls per second, reverse-scroll and jitter diagnostics in the browser.
 * [CPS Test Polling Rate Test](https://cpstest.org/polling-rate-test/) - Online mouse polling rate checker.
 * [Click Speed Tester Mouse Rate Checker](https://clickspeedtester.com/mouse-polling-rate-checker/) - Check average and maximum mouse polling rate online.
 
