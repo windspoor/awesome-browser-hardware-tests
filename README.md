@@ -40,6 +40,7 @@ Join the discussion on [r/HardwareTest](https://www.reddit.com/r/HardwareTest/) 
 * [DeviceTests Mouse Test](https://devicetests.com/mouse-test) - Test mouse buttons, scroll wheel, and basic mouse input.
 * [CPS Test Polling Rate Test](https://cpstest.org/polling-rate-test/) - Online mouse polling rate checker.
 * [Click Speed Tester Mouse Rate Checker](https://clickspeedtester.com/mouse-polling-rate-checker/) - Check average and maximum mouse polling rate online.
+* [GearLint Mouse Test](https://www.gearlint.com/mouse-test) - Detect double-click chatter by press/release gap timing, plus a 5-second CPS sprint and polling-rate estimate. States the browser-delivery limit of the polling figure instead of hiding it.
 
 ## Keyboard Testing
 
@@ -47,6 +48,7 @@ Join the discussion on [r/HardwareTest](https://www.reddit.com/r/HardwareTest/) 
 * [DeviceTests Keyboard Test](https://devicetests.com/keyboard-test) - Browser-based keyboard key test.
 * [Keyboard Test Online](https://keyboard-test.space/) - Online keyboard testing tool for checking key input.
 * [Key-Test](https://en.key-test.ru/) - Simple online keyboard checker.
+* [GearLint Keyboard Test](https://www.gearlint.com/keyboard-test) - Per-key keydown/keyup gap timing to separate a bouncing switch from a software setting, plus N-key rollover and ghosting checks.
 
 ## Game Controller Testing
 
@@ -55,6 +57,7 @@ Join the discussion on [r/HardwareTest](https://www.reddit.com/r/HardwareTest/) 
 * [DeviceTests Gamepad Tester](https://devicetests.com/controller-test) - Browser-based controller and gamepad testing tool.
 * [Online Gamepad Tester](https://gamepadtester.net/) - Test gamepad buttons, joysticks, and controller input.
 * [Gamepad Viewer](https://gamepadviewer.com/) - Visualize gamepad input for testing, streaming, and controller display.
+* [GearLint Controller Test](https://www.gearlint.com/controller-test) - Samples both analog sticks every frame and shows raw resting axis values, so a drift of 0.09 reads as 0.09 rather than behind a pass/fail badge.
 
 ## Monitor and Screen Testing
 
@@ -63,12 +66,14 @@ Join the discussion on [r/HardwareTest](https://www.reddit.com/r/HardwareTest/) 
 * [Lagom LCD Monitor Test Pages](http://www.lagom.nl/lcd-test/) - Classic LCD monitor test pages for contrast, sharpness, gamma, and response.
 * [DeviceTests Dead Pixel Test](https://devicetests.com/dead-pixel-test) - Browser-based dead pixel and screen test.
 * [Blur Busters UFO Test](https://www.testufo.com/) - Motion, refresh rate, frame skipping, and display performance tests.
+* [GearLint Screen Test](https://www.gearlint.com/screen-test) - Full-screen color tests for dead and stuck pixels, each page stating what the method cannot measure.
 
 ## Webcam Testing
 
 * [Webcam Test](https://webcamtests.com/) - Test webcam image, resolution, frame rate, and device status.
 * [DeviceTests Webcam Test](https://devicetests.com/webcam-test) - Simple online webcam test.
 * [OnlineMicTest Webcam Test](https://www.onlinemictest.com/webcam-test/) - Test whether your webcam is working in the browser.
+* [GearLint Webcam Test](https://www.gearlint.com/webcam-test) - Reports the resolution and frame rate actually delivered, counted from real frames rather than taken from the spec sheet.
 
 ## Microphone and Audio Testing
 
@@ -78,6 +83,7 @@ Join the discussion on [r/HardwareTest](https://www.reddit.com/r/HardwareTest/) 
 * [DeviceTests Microphone Test](https://devicetests.com/microphone-test) - Browser-based microphone test.
 * [MicTests.com](https://mictests.com/) - Check microphone input, playback, and device status.
 * [Left Right Stereo Test](https://www.audiocheck.net/audiotests_stereo.php) - Test left and right speaker channels.
+* [GearLint Mic and Speaker Tests](https://www.gearlint.com/microphone-test) - Separates a swapped channel from a dead one and shows whether the microphone is capturing at all. Every tone starts quiet.
 
 ## Internet and Network Testing
 
