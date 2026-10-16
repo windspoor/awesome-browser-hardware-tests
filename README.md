@@ -55,6 +55,7 @@ Join the discussion on [r/HardwareTest](https://www.reddit.com/r/HardwareTest/) 
 * [DeviceTests Gamepad Tester](https://devicetests.com/controller-test) - Browser-based controller and gamepad testing tool.
 * [Online Gamepad Tester](https://gamepadtester.net/) - Test gamepad buttons, joysticks, and controller input.
 * [Gamepad Viewer](https://gamepadviewer.com/) - Visualize gamepad input for testing, streaming, and controller display.
+* [GPProbe](https://gpprobe.com/) - Free browser gamepad tester: stick drift test with resting values and verdicts, button and trigger checks, vibration test, and a controller health score.
 
 ## Monitor and Screen Testing
 
